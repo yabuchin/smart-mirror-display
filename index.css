@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+#content {
+    padding: 10%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #CCFBE0;
+}
+
+#sun-img {
+    height: 64px;
+    vertical-align: middle;
+}
+
+#temperature {
+    font-size: 64px;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#degree {
+    position: relative;
+    bottom: 6px;
+    font-size: 42px;
+    margin-left: 6px;
+    vertical-align: bottom;
+}
